@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import { AppSidebar } from "@/components/AppSidebar";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { Toaster } from "@/components/ui/sonner";
 
 export function AppShell({
@@ -27,6 +28,7 @@ export function AppShell({
                 <p className="truncate text-xs text-muted-foreground">{description}</p>
               ) : null}
             </div>
+            <ThemeToggle />
             {actions}
           </header>
           <main className="flex-1 p-4 sm:p-6 lg:p-8">
