@@ -1,6 +1,6 @@
-# Mr. AI Assistant
+# Mr. AI 
 
-create a modern web application called Mr. AI it must include the following smart email generator, AI task planner and AI chat bot interface include side bar navigation, modern dashboard UI, strong responsive design, edible AI outputs and inputs include responsible disclaimer and structured AI prompts. The design must be clean, modern and professional similar to SaaS platform.
+Mr.AI is a modern web application that brings practical AI tools into one simple workspace. It helps users write professional emails, organize tasks, and have conversations with an AI assistant.
 
 This project was built with [Lovable](https://lovable.dev).
 
@@ -22,3 +22,13 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+How It Works
+The user selects the Email Generator, Task Planner, or AI Chat.
+The application collects the user's prompt and relevant preferences.
+A secure server-side endpoint sends the request to the AI service.
+The generated response is returned to the interface.
+The user can review, edit, copy, or save the result.
+Project Goal
+it provides a focused AI productivity experience by combining communication, planning, and conversation in one accessible web application. Its goal is to help users move from an idea or request to a useful result with minimal effort.
+Application link : https://think-compose-assist.lovable.app/
+Team Members: Iesmaeel and Shafiek
