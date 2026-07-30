@@ -87,6 +87,9 @@ function Dashboard() {
               <Link to="/chat">Open AI Chat</Link>
             </Button>
           </div>
+          <p className="mt-4 text-xs text-muted-foreground">
+            <strong className="font-medium text-foreground">Responsible AI:</strong> Mr. AI generates suggestions that may be inaccurate or incomplete. Please review outputs before using them in critical contexts.
+          </p>
         </div>
       </section>
 
