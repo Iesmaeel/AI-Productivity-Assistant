@@ -59,8 +59,15 @@ function Dashboard() {
     <AppShell title="Dashboard" description="Welcome back to Mr. AI">
       <section className="relative overflow-hidden rounded-2xl border bg-card p-6 shadow-card sm:p-10">
         <div className="pointer-events-none absolute -right-24 -top-24 h-64 w-64 rounded-full bg-gradient-brand opacity-20 blur-3xl" />
-        <div className="relative max-w-2xl">
-          <div className="inline-flex items-center gap-2 rounded-full border bg-background/60 px-3 py-1 text-xs font-medium text-muted-foreground">
+        <img
+          src={mrAiBackgroundLogo.url}
+          alt="Mr. AI background"
+          width={1792}
+          height={1024}
+          className="pointer-events-none absolute right-0 top-0 hidden h-full w-2/3 object-cover object-right opacity-90 dark:opacity-70 lg:block"
+        />
+        <div className="relative z-10 max-w-2xl">
+          <div className="inline-flex items-center gap-2 rounded-full border bg-background/60 px-3 py-1 text-xs font-medium text-muted-foreground backdrop-blur-sm">
             <Sparkles className="h-3.5 w-3.5 text-brand" />
             Powered by Lovable AI
           </div>
