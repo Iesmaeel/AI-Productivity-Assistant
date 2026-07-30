@@ -80,7 +80,8 @@ export function AppSidebar() {
       </SidebarContent>
       <SidebarFooter>
         <div className="px-3 py-2 text-[11px] leading-relaxed text-sidebar-foreground/50 group-data-[collapsible=icon]:hidden">
-          AI outputs may be inaccurate. Review before use.
+          AI inputs and outputs are editable. Outputs may be inaccurate — review
+          before use, and avoid entering sensitive information.
         </div>
       </SidebarFooter>
     </Sidebar>
