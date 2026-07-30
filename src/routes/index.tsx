@@ -75,8 +75,7 @@ function Dashboard() {
             Meet <span className="text-gradient-brand">Mr. AI</span> — your intelligent workspace.
           </h2>
           <p className="mt-3 text-sm text-brand-light sm:text-base">
-            Compose emails, plan projects, and think out loud with a focused assistant.
-            Structured prompts, editable outputs, and a clean interface built for real work.
+            {"\n"}
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <Button asChild size="lg" className="bg-gradient-brand text-brand-foreground shadow-elegant hover:opacity-95">
