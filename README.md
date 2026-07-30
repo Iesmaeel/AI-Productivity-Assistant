@@ -22,13 +22,13 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-How It Works
+## How It Works
 The user selects the Email Generator, Task Planner, or AI Chat.
 The application collects the user's prompt and relevant preferences.
 A secure server-side endpoint sends the request to the AI service.
 The generated response is returned to the interface.
 The user can review, edit, copy, or save the result.
-Project Goal
+## Project Goal
 it provides a focused AI productivity experience by combining communication, planning, and conversation in one accessible web application. Its goal is to help users move from an idea or request to a useful result with minimal effort.
-Application link : https://think-compose-assist.lovable.app
-Team Members: Iesmaeel and Shafiek
+## Application link: https://think-compose-assist.lovable.app
+## Team Members: Iesmaeel and Shafiek
