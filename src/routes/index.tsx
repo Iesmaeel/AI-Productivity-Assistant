@@ -3,6 +3,7 @@ import { AppShell } from "@/components/AppShell";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Mail, ListChecks, MessageSquare, ArrowRight, Sparkles, Zap, Shield } from "lucide-react";
+import mrAiBackgroundLogo from "@/assets/mr-ai-background-logo.png.asset.json";
 
 export const Route = createFileRoute("/")({
   head: () => ({
