@@ -30,5 +30,5 @@ The generated response is returned to the interface.
 The user can review, edit, copy, or save the result.
 Project Goal
 it provides a focused AI productivity experience by combining communication, planning, and conversation in one accessible web application. Its goal is to help users move from an idea or request to a useful result with minimal effort.
-Application link : https://think-compose-assist.lovable.app/
+Application link : https://think-compose-assist.lovable.app
 Team Members: Iesmaeel and Shafiek
