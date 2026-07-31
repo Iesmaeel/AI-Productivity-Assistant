@@ -8,10 +8,9 @@ This project was built with [Lovable](https://lovable.dev).
 
 Mr. AI is designed to help users move from an idea or request to a useful result with minimal effort. The application combines communication, planning, and conversation in a single accessible interface. Users provide structured inputs and preferences, and a secure server-side endpoint forwards the request to an AI service. The generated response is returned to the interface where it can be reviewed, edited, copied, or saved.
 
-The app features a professional light/dark theme with a sky-blue dashboard background, clean indigo/purple brand accents, a collapsible sidebar, and a bold Mr. AI background logo positioned on the right-hand side of the hero section.
+The app features a professional light/dark theme with a sky-blue dashboard background, clean indigo/purple brand accents, a collapsible sidebar, and a bold Mr. AI background logo.
 
 ## Features
-
 - **Smart Email Generator** — Compose professional emails from prompts with tone and context controls. Editable drafts let you refine the output before using it.
 - **AI Task Planner** — Turn goals into structured task plans. Preview and edit generated plans to fit your workflow.
 - **AI Chat Bot** — Have focused conversations with an AI assistant. Messages are editable for iterative refinement.
@@ -22,7 +21,6 @@ The app features a professional light/dark theme with a sky-blue dashboard backg
 - **Responsive Design** — Works across desktop, tablet, and mobile viewports.
 
 ## Tools Used
-
 - **Framework:** [TanStack Start](https://tanstack.com/start) with React 19 and file-based routing
 - **Build Tool:** Vite 8
 - **Styling:** Tailwind CSS v4 with custom OKLCH color tokens
@@ -71,16 +69,11 @@ npm run format
 ```
 
 ## How It Works
-
 1. The user selects the Email Generator, Task Planner, or AI Chat from the sidebar.
 2. The application collects the user's prompt and relevant preferences.
 3. A secure server-side endpoint sends the request to the AI service.
 4. The generated response is returned to the interface.
 5. The user can review, edit, copy, or save the result.
-
-## Project Goal
-
-Mr. AI provides a focused AI productivity experience by combining communication, planning, and conversation in one accessible web application. Its goal is to help users move from an idea or request to a useful result with minimal effort.
 
 ## URL: https://think-compose-assist.lovable.app
 
