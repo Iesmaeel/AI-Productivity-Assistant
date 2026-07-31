@@ -1,6 +1,6 @@
-# AI powered assistant
+# AI Productivity Assistant
 
-Its a modern web application that brings practical AI tools into one simple workspace. It helps users write professional emails, organize tasks, and have conversations with an AI assistant.
+It's a modern web application that brings practical AI tools into one simple workspace. It helps users write professional emails, organize tasks, and have conversations with an AI assistant.
 
 This project was built with [Lovable](https://lovable.dev).
 
@@ -30,5 +30,5 @@ The generated response is returned to the interface.
 The user can review, edit, copy, or save the result.
 ## Project Goal
 it provides a focused AI productivity experience by combining communication, planning, and conversation in one accessible web application. Its goal is to help users move from an idea or request to a useful result with minimal effort.
-## URL link: https://think-compose-assist.lovable.app
-## Team Members: Iesmaeel and Shafiek
+## URL link: https://think-compose-assist.lovable.app  
+Team Members: Iesmaeel and Shafiek
