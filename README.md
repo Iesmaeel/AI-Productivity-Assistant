@@ -1,4 +1,4 @@
-# Mr. AI
+# AI Productivity Assistant
 
 A modern, AI-powered productivity assistant that brings practical AI tools into one clean workspace. Mr. AI helps users write professional emails, plan tasks, and have focused conversations with an intelligent assistant.
 
