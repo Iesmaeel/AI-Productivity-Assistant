@@ -1,6 +1,6 @@
-# Mr. AI 
+# AI powered assistant
 
-Mr.AI is a modern web application that brings practical AI tools into one simple workspace. It helps users write professional emails, organize tasks, and have conversations with an AI assistant.
+Its modern web application that brings practical AI tools into one simple workspace. It helps users write professional emails, organize tasks, and have conversations with an AI assistant.
 
 This project was built with [Lovable](https://lovable.dev).
 
