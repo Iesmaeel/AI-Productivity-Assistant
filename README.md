@@ -1,6 +1,6 @@
 # Mr. AI
 
-A modern, AI-powered productivity assistant that brings practical AI tools into one clean workspace. Mr. AI helps users write professional emails, plan tasks, and have focused conversations with an intelligent assistant — all through a responsive, SaaS-style dashboard.
+A modern, AI-powered productivity assistant that brings practical AI tools into one clean workspace. Mr. AI helps users write professional emails, plan tasks, and have focused conversations with an intelligent assistant.
 
 This project was built with [Lovable](https://lovable.dev).
 
@@ -82,11 +82,8 @@ npm run format
 
 Mr. AI provides a focused AI productivity experience by combining communication, planning, and conversation in one accessible web application. Its goal is to help users move from an idea or request to a useful result with minimal effort.
 
-## URL
+## URL: https://think-compose-assist.lovable.app
 
-https://think-compose-assist.lovable.app
 
-## Team Members
 
-- Iesmaeel
-- Shafiek
+
